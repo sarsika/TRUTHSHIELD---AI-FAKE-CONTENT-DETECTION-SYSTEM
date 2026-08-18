@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "TruthShield",
+  "version": "1.0",
+  "description": "Detect fake content on any website",
+  "permissions": ["activeTab", "scripting"],
+  "host_permissions": [
+    "http://localhost:8082/*",
+    "https://truthshield-ai-fake-content-detection.onrender.com/*"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "TruthShield"
+  }
+}

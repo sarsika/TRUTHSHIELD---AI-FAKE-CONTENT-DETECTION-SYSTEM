@@ -1,0 +1,6 @@
+password
+otp
+account suspended
+verify identity
+security alert
+unauthorized access

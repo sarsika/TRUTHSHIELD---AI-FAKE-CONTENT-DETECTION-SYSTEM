@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+textarea {
+  font-family: Arial, sans-serif;
+}
+
+@media (max-width: 600px) {
+  h2 { font-size: 20px !important; }
+  h3 { font-size: 16px !important; }
+  button { font-size: 11px !important; }
+}
