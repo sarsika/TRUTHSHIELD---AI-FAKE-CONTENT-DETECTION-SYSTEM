@@ -2,8 +2,6 @@
 
 TruthShield analyzes URLs, pasted text, WhatsApp forwards, and photos/screenshots to flag likely fake, scam, fraud, or rumor content — combining fast keyword-pattern matching with a Python ML confidence score.
 
-**Live app:** https://truthshield-ai-fake-detection-system.netlify.app
-**Backend API:** https://truthshield-ai-fake-content-detection.onrender.com/api
 
 ---
 
